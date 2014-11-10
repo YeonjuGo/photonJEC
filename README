@@ -1,4 +1,4 @@
-
+txt_v1 ; photon > 30 GeV, fitting range [0,1000]
 txt_v2 ; photon > 30 GeV, fitting range [20,300]
 txt_v3 ; photon > 30 GeV, fitting range [0,300]
 txt_v4 ; photon > 25 GeV, fitting range [0,300]
